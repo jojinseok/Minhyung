@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/drawable/culture_find.xml" value="0.1985" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/ac5.xml" value="0.2515625" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/activity_login.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/activity_register.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/bubble_popup.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/bulletinboard_acttivity.xml" value="0.2515625" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/chart.xml" value="0.225" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/chart_select.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/collect.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/culture_find.xml" value="0.22" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/intro_activity.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/marker_data.xml" value="0.1" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/road_search.xml" value="0.25" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/layout/write_post_activity.xml" value="0.2515625" />
+        <entry key="..\:/Users/BoredSun/AndroidStudioProjects/Test/app/src/main/res/menu/smenu.xml" value="0.25" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/ac3.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/activity_login.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/bubble_popup.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/bulletinboard_acttivity.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/chart.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/chart_select.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/chart_xml.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/collect.xml" value="0.36633663366336633" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/culture_find.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/dcd.xml" value="0.27853260869565216" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/marker.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/marker_data.xml" value="0.33" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/navigation.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/progress.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/road_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/show_chart.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/slowchart.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Jinseok/AndroidStudioProjects/Test/app/src/main/res/layout/write_post_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/drawable.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/home.xml" value="0.198" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/ic_setting_black_24dp.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/icong_exit.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/menu_icon.xml" value="0.3405" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/navigation.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/power.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/progress_bg.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/progress_image.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/show_chart.xml" value="0.248" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/time.xml" value="0.198" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/drawable/write.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/ac3.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/ac5.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/activity_login.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/activity_register.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/activity_search.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/bubble_popup.xml" value="0.18059777102330293" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/chart_xml.xml" value="0.17223910840932116" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/collect.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/culture_find.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/dcc.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/dcd.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/dialog_progress.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/intro_activity.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/marker.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/marker_data.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/road_search.xml" value="0.26721014492753625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/test.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/layout/write_post_activity.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/menu/bottom_menu.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Test/app/src/main/res/menu/smenu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
